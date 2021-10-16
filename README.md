@@ -1,1 +1,1 @@
-ABC
+This is a simple program written in MATLAB to model some guiding center motions of single particles in various E and B fields.
